@@ -1,0 +1,28 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "title": "Ring",
+      "price": 35000,
+      "description": "Rose Gold Men's Ring",
+      "category": "jewelery",
+      "image": "https://static.diamondsfactory.com/image/product_v2/clrn08914/rf0152310/showcase/front/rr/di/0001.jpg"
+    },
+    {
+      "title": "Zara ",
+      "price": "3550",
+      "description": "Polo Shirt With Contrast Collar",
+      "category": "men's clothing",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT_zMp1UeoFG2GTDVDPx8trl4K3uzkbnbTlKBbDg6e7Aqg38VBGfH7EDyLDrjtgOrGaqXAmR167KJc_lnTYbrIxWaOvxGIr27gB56sJJe_G2h67TF1g8ofENi03Q1ZJueLESedpr6Y&usqp=CAc",
+      "id": 2
+    },
+    {
+      "title": "",
+      "price": "",
+      "description": "",
+      "category": "",
+      "image": "",
+      "id": 3
+    }
+  ]
+}
