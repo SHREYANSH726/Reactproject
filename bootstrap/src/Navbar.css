@@ -1,0 +1,33 @@
+/* Navbar background */
+.custom-navbar {
+    background-color: #343a40 !important; /* dark background */
+    padding: 10px 0;
+    z-index: 1030; /* Ensures the navbar stays on top of other content */
+  }
+  
+  /* Brand color */
+  .nav-brand {
+    color: #ffffff !important;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  /* Nav link base style */
+  .nav-link-custom {
+    color: #ffffff !important;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+  }
+  
+  /* Nav link hover */
+  .nav-link-custom:hover {
+    color: #ffc107 !important; /* Bootstrap warning color */
+    text-decoration: none;
+  }
+  
+  /* Dropdown item hover */
+  .dropdown-item:hover {
+    background-color: #495057;
+    color: #ffffff;
+  }
+  
