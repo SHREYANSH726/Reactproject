@@ -1,0 +1,22 @@
+{
+ "recipes": [
+    {
+      "id": 1,
+      "title": "Classic Margherita Pizza",
+      "ingredients": "Tomato sauce, Fresh mozzarella, Basil leaves, Olive oil",
+      "category": "Italian"
+    },
+    {
+      "id": 2,
+      "title": "Vegetable Stir Fry",
+      "ingredients": "Broccoli, Bell peppers, Carrots, Soy sauce, Garlic, Ginger",
+      "category": "Asian"
+    },
+    {
+      "id": 3,
+      "title": "Chocolate Chip Cookies",
+      "ingredients": "Flour, Sugar, Butter, Eggs, Chocolate chips, Baking soda",
+      "category": "Dessert"
+    }
+  ]
+}
